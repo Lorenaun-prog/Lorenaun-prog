@@ -13,7 +13,7 @@ A lo largo de mi experiencia en **gestión y evaluación de proyectos**, aprend�
 📝 elaborar reportes y  
 🎯 transformar datos en decisiones que generan impacto real.
 
-Actualmente estoy **fortaleciendo mis habilidades técnicas** cursando un *Bootcamp en Data Analytics*, donde trabajo con herramientas como **Excel, SQL, Python y Power BI** para procesar y visualizar información de forma efectiva.
+Actualmente trabajo con herramientas como **Excel, SQL, Python, Tableau y Power BI** para procesar y visualizar información de forma efectiva.
 
 💡 Mi objetivo es seguir creciendo en el campo del **análisis de datos y la inteligencia de negocio**, combinando mi visión estratégica con nuevas herramientas para convertir la información en valor para las organizaciones.
 
@@ -23,9 +23,10 @@ Actualmente estoy **fortaleciendo mis habilidades técnicas** cursando un *Bootc
 
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=tableau&logoColor=white"/>
 </p>
 
 ---
