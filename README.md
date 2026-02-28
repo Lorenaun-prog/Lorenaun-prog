@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy <strong>Lorena Urquijo</strong> 👋</h1>
-<h3 align="center">Economista aspirante a Analista de Datos</h3>
+<h3 align="center">Economista con énfasis en Análisis de Datos</h3>
 
 ---
 
@@ -33,8 +33,11 @@ Actualmente estoy **fortaleciendo mis habilidades técnicas** cursando un *Bootc
 ### 📈 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lorenaun-prog&show_icons=true&theme=default&hide_border=false&bg_color=ffffff&title_color=1f6feb&icon_color=1f6feb" alt="Estadísticas de GitHub" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenaun-prog&layout=compact&theme=default&hide_border=false&bg_color=ffffff&title_color=1f6feb" alt="Lenguajes más usados" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
 </p>
 
 ---
