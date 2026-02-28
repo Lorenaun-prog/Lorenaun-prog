@@ -33,11 +33,11 @@ Actualmente trabajo con herramientas como **Excel, SQL, Python, Tableau y Power 
 ### 📈 Mis estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lorenaun-prog&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lorenaun-prog&theme=tokyonight"/>
 </p>
 
 ---
